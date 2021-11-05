@@ -1,6 +1,6 @@
 /*
  * File:   newmainXC16.c
- * Author: dadab
+ * Author: Dhanapati
  *
  * Created on November 3, 2021, 10:02 AM
  */
