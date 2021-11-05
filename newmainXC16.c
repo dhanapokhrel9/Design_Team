@@ -73,10 +73,8 @@ int main(void) {
             break;
         }
         if (getU2()) {
-            if (IncData == 'A')
+            if (IncData)
                 PORTBbits.RB0 = 1;
-            if (IncData == 'a')
-                PORTBbits.RB0 = 0;
 
         }
 
